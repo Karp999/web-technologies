@@ -1,18 +1,53 @@
+html{
+    background-color: #f3ae53;
+}
 p{
     color: #462501;
+    font-family: 'Roboto', sans-serif;
 }
 .sizeCatPic{
     width: 300px;
-
+    margin: 0 auto;
+    padding: 0 ;
+    border: 1px solid rgb(59, 34, 1);
 }
 body{
     background-color: #f3d353;
+    font-family: 'Roboto', sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(218, 141, 41);
 }
 a{
     background-color: #e2e583;
     color: #043f0e;
+    font-size: 20px; 
+    font-family: 'Roboto', sans-serif;
 }
 .block1{
     background-color: #e2e583;
     color: #5c1107;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(218, 141, 41);
+}
+.block2{
+    background-color: #bcf780;
+    color: #045c16;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(9, 69, 0);
+    font-size: 23px;
+}
+.block3{
+    background-color: #f26f4b;
+    color: #61050b;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 2px solid rgb(69, 0, 2);
+    font-size: 23px;
 }
