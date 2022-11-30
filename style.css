@@ -1,4 +1,4 @@
-p {
+p{
     color: #462501;
 }
 .sizeCatPic{
@@ -7,4 +7,12 @@ p {
 }
 body{
     background-color: #f3d353;
+}
+a{
+    background-color: #e2e583;
+    color: #043f0e;
+}
+.block1{
+    background-color: #e2e583;
+    color: #5c1107;
 }
